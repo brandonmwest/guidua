@@ -1,0 +1,11 @@
+BrowseDialog = 198, 261, 839, 908, 
+ExecuteApplication = 74, 32, 856, 665, C
+IniFiles = 110, 190, 817, 845, 
+frmOptions = 125, 32, 824, 675, , 210, 67, 909, 714, C
+frmOutput = 39, 125, 738, 772, , 33, 72, 832, 748, C
+frmMain = 65, 92, 764, 739, , 204, 48, 903, 695, C
+frmAbout = 112, 68, 812, 715, C, 107, 243, 806, 890, C
+modMain = 21, 155, 728, 810, C
+waitFunctions = 88, 116, 795, 771, 
+TerminateApplication = 44, 58, 773, 655, 
+frmProperties = 70, 159, 821, 705, C, 180, 178, 931, 724, C
