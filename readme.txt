@@ -1,3 +1,5 @@
+This is a program I wrote in 2003. It's mostly here for my own enjoyment. It still works on Windows 8!
+
 GUIDUA 0.16 README.TXT
 ---------------------------------------------------------------------
 Guidua is a Windows frontend for the spectacular Oidua audio listing 
