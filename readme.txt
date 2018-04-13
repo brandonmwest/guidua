@@ -4,10 +4,10 @@ GUIDUA 0.16 README.TXT
 ---------------------------------------------------------------------
 Guidua is a Windows frontend for the spectacular Oidua audio listing 
 utility. To download Oidua and find information on the project, visit
-http://oidua.lycken.com
+http://oidua.suxbad.com
 
 If you have questions, suggestions, or bug reports, please email me:
-brandon.west@colorado.edu
+brandon.west@colorado.edu (please don't this address doesn't exist)
 
 Requirements
 ---------------------------------------------------------------------
